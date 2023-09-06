@@ -21,7 +21,7 @@ from langchain.chat_models import ChatOpenAI
 ### LLM Memory Imports
 from langchain.memory import ConversationBufferMemory
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 
 
 
 ### LLMS
